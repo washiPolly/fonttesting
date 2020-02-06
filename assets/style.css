@@ -1,0 +1,16 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+p{
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.thougth1{
+    font-family: 'Playfair Display', serif;
+}
+
+.thought2{
+    font-family: 'Slabo 27px', serif;
+}
